@@ -1,1 +1,2 @@
-#1 HCaptcha Cookie Changed At 07/12/2021 19:18 GMT 7:18 PM GMT (Non Military) - Token Updated Every 12 Hours
+#1 HCaptcha Cookie Changed At 07/12/2021 19:18 GMT 7:18 PM GMT (Non 24 hours) - Token Updated Every 12 Hours
+#2 HCaptcha Cookie Changed At 08/12/2021 17:21 GMT 5:21 PM GMT (Non 24 hours) - Token Updated Every 12 Hours
